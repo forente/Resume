@@ -19,12 +19,16 @@ text-align:center;
 
 
 .job{
-padding-top:32px;
+margin-top:32px;
 padding-left:8px;
+background-color:rgba(0,153,0,0.20);
+border-radius:15px;
 }
 
 .edu{
 padding-left:8px;
+background-color:rgba(0,153,0,0.20);
+border-radius:5px;
 }
 .place{
 display:inline;
