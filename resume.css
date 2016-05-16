@@ -1,13 +1,23 @@
 body{
 background-image: url(image/confectionary.png);
-
-
-}
-
-.container{
-width:800px;
+width:950px;
 margin:60px auto;
 }
+
+p{
+text-align:center;
+}
+main{
+background-color:rgba(55,255,255,0.20);
+padding:10px;
+border-radius:15px;
+}
+
+h1{
+text-align:center;
+}
+
+
 .job{
 padding-top:32px;
 padding-left:8px;
@@ -41,9 +51,6 @@ font-weight:bold;
 padding-top:8px;
 }
 
-#name{
-text-align:center;
-}
 
 #educat{
 padding-top:32px;
